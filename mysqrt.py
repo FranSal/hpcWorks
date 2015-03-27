@@ -5,6 +5,9 @@ sqrt using the Newton mwthod
 """
 
 def sqrt2(x):
+    """
+    aditional info
+    """
     s=1
     kmax=100
     delta=1e-14
